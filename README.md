@@ -7,7 +7,7 @@ Video player for Android Compose powered by ExoPlayer.
 ```groovy
 allprojects {
     repositories {
-		...
+		
 		maven { url 'https://jitpack.io' }
 	}
 }
